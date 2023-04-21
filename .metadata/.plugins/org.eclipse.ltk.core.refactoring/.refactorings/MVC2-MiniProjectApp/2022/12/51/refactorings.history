@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MVC2-MiniProjectApp/src/main/webapp/html_screen.html&apos; to &apos;html_screen.jsp&apos;" description="Rename resource &apos;html_screen.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/html_screen.html" name="html_screen.jsp" stamp="1671089993501" updateReferences="true"/>
+</session>

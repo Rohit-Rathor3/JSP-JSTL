@@ -1,0 +1,11 @@
+<web-app>
+<servlet>
+<servlet-name>page</servlet-name>
+<jsp-file>/all_scripting_tags.jsp</jsp-file>
+</servlet>
+<servlet-mapping>
+<servlet-name>page</servlet-name>
+<url-pattern>/jspurl</url-pattern>
+</servlet-mapping>
+
+</web-app>
